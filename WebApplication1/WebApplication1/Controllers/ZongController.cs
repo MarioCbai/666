@@ -11,6 +11,9 @@ namespace WebApplication1.Controllers
         // GET: Zong
         public ActionResult Index()
         {
+
+
+
             return View();
         }
     }
